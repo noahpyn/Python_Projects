@@ -1,2 +1,7 @@
-# Python 
-A bunch of my Simple Python Projects!
+# 30 Days of Python!  
+
+#001 Dice Simulator
+
+created a random dice simulator that simulates and prints two random dices.
+The Result:
+
