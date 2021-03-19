@@ -13,6 +13,6 @@ Source Code:<br> https://github.com/noahpyn/Python-/blob/main/Dice%20Simulator/d
 
 This project generates a random 16-length password.
 <br>
-Source Code:<br> https://repl.it/@noahpyn/Password-Generator#main.py
+Source Code:<br> https://github.com/noahpyn/Python-/blob/main/Password%20Generator/Password.py
 <br>
 
